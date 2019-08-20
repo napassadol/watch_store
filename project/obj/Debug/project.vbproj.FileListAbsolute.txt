@@ -1,0 +1,44 @@
+C:\Users\Som\AppData\Local\Temporary Projects\project\bin\Debug\project.exe.config
+C:\Users\Som\AppData\Local\Temporary Projects\project\bin\Debug\project.exe
+C:\Users\Som\AppData\Local\Temporary Projects\project\bin\Debug\project.pdb
+C:\Users\Som\AppData\Local\Temporary Projects\project\bin\Debug\project.xml
+C:\Users\Som\AppData\Local\Temporary Projects\project\obj\Debug\project.vbprojAssemblyReference.cache
+C:\Users\Som\AppData\Local\Temporary Projects\project\obj\Debug\project.Formbrand.resources
+C:\Users\Som\AppData\Local\Temporary Projects\project\obj\Debug\project.Formcustomer.resources
+C:\Users\Som\AppData\Local\Temporary Projects\project\obj\Debug\project.Formcustomerlist.resources
+C:\Users\Som\AppData\Local\Temporary Projects\project\obj\Debug\project.Formmenu.resources
+C:\Users\Som\AppData\Local\Temporary Projects\project\obj\Debug\project.Formproduct.resources
+C:\Users\Som\AppData\Local\Temporary Projects\project\obj\Debug\project.Formsale.resources
+C:\Users\Som\AppData\Local\Temporary Projects\project\obj\Debug\project.Formuser.resources
+C:\Users\Som\AppData\Local\Temporary Projects\project\obj\Debug\project.login.resources
+C:\Users\Som\AppData\Local\Temporary Projects\project\obj\Debug\project.Resources.resources
+C:\Users\Som\AppData\Local\Temporary Projects\project\obj\Debug\project.vbproj.GenerateResource.cache
+C:\Users\Som\AppData\Local\Temporary Projects\project\obj\Debug\project.vbproj.CoreCompileInputs.cache
+C:\Users\Som\AppData\Local\Temporary Projects\project\obj\Debug\project.exe
+C:\Users\Som\AppData\Local\Temporary Projects\project\obj\Debug\project.xml
+C:\Users\Som\AppData\Local\Temporary Projects\project\obj\Debug\project.pdb
+C:\Users\napas\Desktop\project\project\bin\Debug\project.exe.config
+C:\Users\napas\Desktop\project\project\bin\Debug\project.exe
+C:\Users\napas\Desktop\project\project\bin\Debug\project.pdb
+C:\Users\napas\Desktop\project\project\bin\Debug\project.xml
+C:\Users\napas\Desktop\project\project\obj\Debug\project.Formbrand.resources
+C:\Users\napas\Desktop\project\project\obj\Debug\project.Formcustomer.resources
+C:\Users\napas\Desktop\project\project\obj\Debug\project.Formcustomerlist.resources
+C:\Users\napas\Desktop\project\project\obj\Debug\project.Formmenu.resources
+C:\Users\napas\Desktop\project\project\obj\Debug\project.Formproduct.resources
+C:\Users\napas\Desktop\project\project\obj\Debug\project.Formsale.resources
+C:\Users\napas\Desktop\project\project\obj\Debug\project.Formuser.resources
+C:\Users\napas\Desktop\project\project\obj\Debug\project.login.resources
+C:\Users\napas\Desktop\project\project\obj\Debug\project.Resources.resources
+C:\Users\napas\Desktop\project\project\obj\Debug\project.vbproj.GenerateResource.cache
+C:\Users\napas\Desktop\project\project\obj\Debug\project.vbproj.CoreCompileInputs.cache
+C:\Users\napas\Desktop\project\project\obj\Debug\project.exe
+C:\Users\napas\Desktop\project\project\obj\Debug\project.xml
+C:\Users\napas\Desktop\project\project\obj\Debug\project.pdb
+C:\Users\napas\Desktop\project\project\bin\Debug\MySql.Data.dll
+C:\Users\napas\Desktop\project\project\bin\Debug\Google.Protobuf.dll
+C:\Users\napas\Desktop\project\project\bin\Debug\Renci.SshNet.dll
+C:\Users\napas\Desktop\project\project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\napas\Desktop\project\project\bin\Debug\MySql.Data.xml
+C:\Users\napas\Desktop\project\project\obj\Debug\project.vbproj.CopyComplete
+C:\Users\napas\Desktop\project\project\obj\Debug\project.vbprojAssemblyReference.cache
